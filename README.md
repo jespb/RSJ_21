@@ -21,4 +21,4 @@ DOI = {10.3390/rs13091623}
 The eight datasets are divided in seven folders, one for each dataset (IM-3 is included in IM-10's folder).
 In these folders, you can see a description of the satellite images and the reference paper for each dataset.
 
-The Mz6 was not included in this repository since it belongs to the government of Mozambique and we do not have autorization to share the data.
+The Mz6 was not included in this repository since it is proprietary.
